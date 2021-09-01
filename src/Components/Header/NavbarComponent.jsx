@@ -9,7 +9,6 @@ import {
 } from "@material-ui/core";
 import { useStyles } from "./HeaderStyle";
 import MenuRoundedIcon from "@material-ui/icons/MenuRounded";
-import logo from "../../logo.svg";
 
 import Messages from "./ActionTab/Messages";
 import Notification from "./ActionTab/Notification";
